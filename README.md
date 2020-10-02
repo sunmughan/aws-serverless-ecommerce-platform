@@ -74,7 +74,7 @@ __Monitoring__:
 | [payment](payment/) | Manages payment collection and refunds. |
 | [payment-3p](payment-3p/) | Simulates a third party payment system. |
 
-### Frontend service
+### Frontend services
 
 |  Services  | Description                               |
 |------------|-------------------------------------------|
